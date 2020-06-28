@@ -1,6 +1,11 @@
 # Hogwarts: The React app for fans of prize-winning pigs
 
 ## React Week 1 Project
+|-App  C
+  |-Navbar  P
+  |-FilterSort  P
+  |- HogContainer  C
+    |- Hog  P
 
 ## Project goals:
 
